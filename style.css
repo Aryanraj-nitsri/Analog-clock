@@ -1,0 +1,46 @@
+.container {
+    position: relative;
+    width: 44vw;
+    height:44vw;
+    background: url(analog2.jpg) no-repeat;
+    background-size: 100%;
+    margin: auto;
+    
+}
+#box1 {
+    width: 0.5vw;
+    height: 8vw;
+    background-color: black;
+    border-radius: 3rem;
+    position: absolute;
+    top: 32%;
+    left: 49%;
+    transform-origin: bottom;
+}
+
+#box2 {
+    width: 0.5vw;
+    height: 10vw;
+    background-color: black;
+    border-radius: 3rem;
+    position: absolute;
+    top: 28%;
+    left: 49%;
+    transform-origin: bottom;
+    
+    
+}
+
+#box3{
+    width: 0.5vw;
+    height: 14vw;  
+    background-color: black;  
+    border-radius: 3rem;
+    position: absolute;
+    top: 19%;
+    left:49%;
+    transform-origin: bottom;
+    
+    
+
+}
